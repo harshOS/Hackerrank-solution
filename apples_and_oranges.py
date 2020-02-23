@@ -1,6 +1,6 @@
 def countApplesAndOranges(s, t, a, b, apples, oranges):
-    a_dist = 0
-    o_dist = 0
+    a_dist = 0 # apple distance from home
+    o_dist = 0 # oranges distance from home
     a_count = 0
     o_count = 0
     for i in range(m):
